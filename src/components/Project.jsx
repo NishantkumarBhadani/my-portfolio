@@ -8,7 +8,7 @@ const projects = [
     description: "A restaurant web app using MERN stack with dynamic menu browsing, online ordering, secure login, and admin dashboard.",
     image: "/projects/resto.png",
     github: "https://github.com/NishantkumarBhadani/restaurant-web-app",
-    demo: "https://github.com/NishantkumarBhadani/restaurant-web-app",
+    demo: "https://spicytouch.onrender.com/",
     tags: ["MERN", "React", "Node.js", "MongoDB"]
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     tags: ["HTML", "CSS", "Frontend"]
   },
   {
-    title: "Samira Weather",
+    title: "Samira",
     description: "Weather application displaying real-time data with clean, responsive interface.",
     image: "/projects/weather.png",
     github: "https://github.com/NishantkumarBhadani/weather_app",
